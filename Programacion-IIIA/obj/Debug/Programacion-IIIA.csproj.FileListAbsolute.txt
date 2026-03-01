@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\programacion-3\Programacion-IIIA\obj\Debug\Programacion-IIIA.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\programacion-3\Programacion-IIIA\obj\Debug\Programacion-IIIA.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\programacion-3\Programacion-IIIA\bin\Debug\Programacion-IIIA.exe.config
+C:\Users\andre\Documents\GitHub\programacion-3\Programacion-IIIA\bin\Debug\Programacion-IIIA.exe
+C:\Users\andre\Documents\GitHub\programacion-3\Programacion-IIIA\bin\Debug\Programacion-IIIA.pdb
+C:\Users\andre\Documents\GitHub\programacion-3\Programacion-IIIA\obj\Debug\Programacion-IIIA.exe
+C:\Users\andre\Documents\GitHub\programacion-3\Programacion-IIIA\obj\Debug\Programacion-IIIA.pdb
