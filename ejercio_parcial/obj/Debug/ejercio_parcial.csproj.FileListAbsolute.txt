@@ -1,0 +1,2 @@
+C:\Users\andre\Documents\GitHub\PROGRAMACION\ejercio_parcial\obj\Debug\ejercio_parcial.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\ejercio_parcial\obj\Debug\ejercio_parcial.csproj.CoreCompileInputs.cache

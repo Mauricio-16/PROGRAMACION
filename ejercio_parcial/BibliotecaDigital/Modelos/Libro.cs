@@ -20,7 +20,7 @@ namespace ejercio_parcial.BibliotecaDigital.Modelos
             this.ISBN = isbn;
         }
 
-        public void virtual nformacion()
+        public override void MostrarInformacion()
         {
             base.MostrarInformacion();
             Console.WriteLine($"Número de Páginas: {NumeroPaginas}");
@@ -39,6 +39,16 @@ namespace ejercio_parcial.BibliotecaDigital.Modelos
         public void Devolver()
         {
             
+        }
+
+        public void GenerarComprobantePrestamo()
+        {
+            Console.WriteLine($"Comprobante de préstamo generado para: {titulo} (ID: {id})");
+        }
+
+        public decimal CalcularMultaPorRetraso(int diasRetraso)
+        {
+            return diasRetraso * 0.5m;
         }
     }
 }

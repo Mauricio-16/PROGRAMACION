@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{825DEAD4-9E8B-4232-B3C8-82D9822B55CA}|ejercio_parcial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{825DEAD4-9E8B-4232-B3C8-82D9822B55CA}|ejercio_parcial.csproj|c:\\users\\andre\\documents\\github\\programacion\\ejercio_parcial\\bibliotecadigital\\enum\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{825DEAD4-9E8B-4232-B3C8-82D9822B55CA}|ejercio_parcial.csproj|C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\ejercio_parcial\\bibliotecadigital\\enum\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{825DEAD4-9E8B-4232-B3C8-82D9822B55CA}|ejercio_parcial.csproj|solutionrelative:bibliotecadigital\\enum\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{825DEAD4-9E8B-4232-B3C8-82D9822B55CA}|ejercio_parcial.csproj|c:\\users\\andre\\documents\\github\\programacion\\ejercio_parcial\\bibliotecadigital\\interface\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{825DEAD4-9E8B-4232-B3C8-82D9822B55CA}|ejercio_parcial.csproj|C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\ejercio_parcial\\bibliotecadigital\\interface\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{825DEAD4-9E8B-4232-B3C8-82D9822B55CA}|ejercio_parcial.csproj|solutionrelative:bibliotecadigital\\interface\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -25,6 +25,10 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TipoCategoria.cs",
@@ -34,8 +38,7 @@
               "RelativeToolTip": "BibliotecaDigital\\Enum\\TipoCategoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T12:04:59.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T12:04:59.495Z"
             },
             {
               "$type": "Document",
@@ -47,12 +50,7 @@
               "RelativeToolTip": "BibliotecaDigital\\Interface\\IPrestable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T12:04:53.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2026-03-06T12:04:53.103Z"
             },
             {
               "$type": "Document",

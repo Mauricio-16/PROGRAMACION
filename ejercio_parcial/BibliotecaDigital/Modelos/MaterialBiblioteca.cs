@@ -8,11 +8,11 @@ namespace ejercio_parcial.BibliotecaDigital.Modelos
 {
     public class MaterialBiblioteca
     {
-        protected string titulo { get; set; };
-        protected string autor { get; set; };
-        protected int id { get; set; };
-        protected int anioPublicacion { get; set; };
-        protected string categoria { get; set; };
+        protected string titulo { get; set; }
+        protected string autor { get; set; }
+        protected int id { get; set; }
+        protected int anioPublicacion { get; set; }
+        protected string categoria { get; set; }
 
         public MaterialBiblioteca(string titulo, string autor, int id, int anioPublicacion, string categoria) 
         {
@@ -23,7 +23,7 @@ namespace ejercio_parcial.BibliotecaDigital.Modelos
             this.categoria = categoria;
         }
 
-        public void virtual MostrarInformacion()
+        public virtual void MostrarInformacion()
         {
             Console.WriteLine($"Título: {titulo}");
             Console.WriteLine($"Autor: {autor}");

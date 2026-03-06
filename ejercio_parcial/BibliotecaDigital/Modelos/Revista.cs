@@ -6,18 +6,19 @@ using System.Threading.Tasks;
 
 namespace ejercio_parcial.BibliotecaDigital.Modelos
 {
-    public class Revista
+    public class Revista : MaterialBiblioteca
     {
-        public int numeroedicion { get; set; };
-        public string periodicidad { get; set; };
+        public int numeroedicion { get; set; }
+        public string periodicidad { get; set; }
 
-        public Revista (string titulo, string autor, int id, int anioPublicacion, string categoria, int numeroedicion , string periodicidad) : base (string titulo, string autor, int id, int anioPublicacion, string categoria)
+        public Revista(string titulo, string autor, int id, int anioPublicacion, string categoria, int numeroedicion, string periodicidad)
+            : base(titulo, autor, id, anioPublicacion, categoria)
         {
             this.numeroedicion = numeroedicion;
             this.periodicidad = periodicidad;
         }
 
-        public void virtual MostrarInformacion()
+        public override void MostrarInformacion()
         {
             base.MostrarInformacion();
             Console.WriteLine($"numero de edicion : {numeroedicion}");
