@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Ejercicios_poo\bin\Debug\Ejercicios_poo.exe.config
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Ejercicios_poo\bin\Debug\Ejercicios_poo.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Ejercicios_poo\bin\Debug\Ejercicios_poo.pdb
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Ejercicios_poo\obj\Debug\Ejercicios_poo.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Ejercicios_poo\obj\Debug\Ejercicios_poo.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Ejercicios_poo\obj\Debug\Ejercicios_poo.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Ejercicios_poo\obj\Debug\Ejercicios_poo.pdb

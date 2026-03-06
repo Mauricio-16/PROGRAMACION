@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{965ACDBE-27A6-48AE-B2E4-FAB230893D4F}|Programacion-IIIA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{965ACDBE-27A6-48AE-B2E4-FAB230893D4F}|Programacion-IIIA.csproj|c:\\users\\andre\\documents\\github\\programacion-3\\programacion-iiia\\ejercicios\\ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{965ACDBE-27A6-48AE-B2E4-FAB230893D4F}|Programacion-IIIA.csproj|C:\\Users\\andre\\Documents\\GitHub\\programacion-3\\Programacion-IIIA\\ejercicios\\ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{965ACDBE-27A6-48AE-B2E4-FAB230893D4F}|Programacion-IIIA.csproj|solutionrelative:ejercicios\\ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{965ACDBE-27A6-48AE-B2E4-FAB230893D4F}|Programacion-IIIA.csproj|c:\\users\\andre\\documents\\github\\programacion-3\\programacion-iiia\\ejercicios\\ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{965ACDBE-27A6-48AE-B2E4-FAB230893D4F}|Programacion-IIIA.csproj|C:\\Users\\andre\\Documents\\GitHub\\programacion-3\\Programacion-IIIA\\ejercicios\\ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{965ACDBE-27A6-48AE-B2E4-FAB230893D4F}|Programacion-IIIA.csproj|solutionrelative:ejercicios\\ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{965ACDBE-27A6-48AE-B2E4-FAB230893D4F}|Programacion-IIIA.csproj|c:\\users\\andre\\documents\\github\\programacion-3\\programacion-iiia\\ejercicios\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{965ACDBE-27A6-48AE-B2E4-FAB230893D4F}|Programacion-IIIA.csproj|C:\\Users\\andre\\Documents\\GitHub\\programacion-3\\Programacion-IIIA\\ejercicios\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{965ACDBE-27A6-48AE-B2E4-FAB230893D4F}|Programacion-IIIA.csproj|solutionrelative:ejercicios\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{965ACDBE-27A6-48AE-B2E4-FAB230893D4F}|Programacion-IIIA.csproj|c:\\users\\andre\\documents\\github\\programacion-3\\programacion-iiia\\ejercicios\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{965ACDBE-27A6-48AE-B2E4-FAB230893D4F}|Programacion-IIIA.csproj|C:\\Users\\andre\\Documents\\GitHub\\programacion-3\\Programacion-IIIA\\ejercicios\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{965ACDBE-27A6-48AE-B2E4-FAB230893D4F}|Programacion-IIIA.csproj|solutionrelative:ejercicios\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,8 +46,7 @@
               "RelativeToolTip": "Ejercicios\\Ejercicio5.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T22:30:07.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T22:30:07.853Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Ejercicios\\Ejercicio4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T22:29:42.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T22:29:42.385Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "Ejercicios\\Ejercicio3.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T22:29:03.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T22:29:03.357Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "Ejercicios\\Ejercicio2.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T22:23:08.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T22:23:08.186Z"
             },
             {
               "$type": "Document",

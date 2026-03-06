@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Ejercicios_poo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA857935-97D3-4F52-BA99-209099E4215F}|Ejercicios_poo.csproj|c:\\users\\andre\\documents\\github\\programacion\\ejercicios_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA857935-97D3-4F52-BA99-209099E4215F}|Ejercicios_poo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA857935-97D3-4F52-BA99-209099E4215F}|Ejercicios_poo.csproj|C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Ejercicios_poo\\ejercicios\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA857935-97D3-4F52-BA99-209099E4215F}|Ejercicios_poo.csproj|solutionrelative:ejercicios\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA857935-97D3-4F52-BA99-209099E4215F}|Ejercicios_poo.csproj|C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Ejercicios_poo\\ejercicios\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA857935-97D3-4F52-BA99-209099E4215F}|Ejercicios_poo.csproj|solutionrelative:ejercicios\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA857935-97D3-4F52-BA99-209099E4215F}|Ejercicios_poo.csproj|C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Ejercicios_poo\\ejercicios\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA857935-97D3-4F52-BA99-209099E4215F}|Ejercicios_poo.csproj|solutionrelative:ejercicios\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA857935-97D3-4F52-BA99-209099E4215F}|Ejercicios_poo.csproj|C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Ejercicios_poo\\ejercicios\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA857935-97D3-4F52-BA99-209099E4215F}|Ejercicios_poo.csproj|solutionrelative:ejercicios\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Ejercicios_poo\\Ejercicios\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Ejercicios_poo\\Ejercicios\\Vehiculo.cs",
+              "RelativeToolTip": "Ejercicios\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T23:53:16.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Ejercicios_poo\\Ejercicios\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Ejercicios_poo\\Ejercicios\\Estudiante.cs",
+              "RelativeToolTip": "Ejercicios\\Estudiante.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T23:52:17.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Ejercicios_poo\\Ejercicios\\Producto.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Producto.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Ejercicios_poo\\Ejercicios\\Producto.cs",
+              "RelativeToolTip": "Ejercicios\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T23:51:02.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CuentaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Ejercicios_poo\\Ejercicios\\CuentaBancaria.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\CuentaBancaria.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Ejercicios_poo\\Ejercicios\\CuentaBancaria.cs",
+              "RelativeToolTip": "Ejercicios\\CuentaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T23:43:28.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Ejercicios_poo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Ejercicios_poo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T23:35:25.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
