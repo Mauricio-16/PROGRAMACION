@@ -5,6 +5,38 @@
     {
       "AbsoluteMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|c:\\users\\andre\\documents\\github\\programacion\\ejercicioparcial3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|c:\\users\\andre\\documents\\github\\programacion\\ejercicioparcial3\\sistemarestaurante\\modelos\\postre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|solutionrelative:sistemarestaurante\\modelos\\postre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|c:\\users\\andre\\documents\\github\\programacion\\ejercicioparcial3\\sistemarestaurante\\modelos\\platoprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|solutionrelative:sistemarestaurante\\modelos\\platoprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|c:\\users\\andre\\documents\\github\\programacion\\ejercicioparcial3\\sistemarestaurante\\modelos\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|solutionrelative:sistemarestaurante\\modelos\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|c:\\users\\andre\\documents\\github\\programacion\\ejercicioparcial3\\sistemarestaurante\\interfaces\\ipreparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|solutionrelative:sistemarestaurante\\interfaces\\ipreparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|c:\\users\\andre\\documents\\github\\programacion\\ejercicioparcial3\\sistemarestaurante\\modelos\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|solutionrelative:sistemarestaurante\\modelos\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|c:\\users\\andre\\documents\\github\\programacion\\ejercicioparcial3\\sistemarestaurante\\enums\\niveldificultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|solutionrelative:sistemarestaurante\\enums\\niveldificultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|c:\\users\\andre\\documents\\github\\programacion\\ejercicioparcial3\\sistemarestaurante\\enums\\estadoorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|solutionrelative:sistemarestaurante\\enums\\estadoorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|c:\\users\\andre\\documents\\github\\programacion\\ejercicioparcial3\\sistemarestaurante\\enums\\tipocomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4EA9B7-73E6-45D4-8C8B-FC3015472A49}|EjercicioParcial3.csproj|solutionrelative:sistemarestaurante\\enums\\tipocomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +46,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Postre.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\EjercicioParcial3\\SistemaRestaurante\\Modelos\\Postre.cs",
+              "RelativeDocumentMoniker": "SistemaRestaurante\\Modelos\\Postre.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\EjercicioParcial3\\SistemaRestaurante\\Modelos\\Postre.cs",
+              "RelativeToolTip": "SistemaRestaurante\\Modelos\\Postre.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:40:35.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlatoPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\EjercicioParcial3\\SistemaRestaurante\\Modelos\\PlatoPrincipal.cs",
+              "RelativeDocumentMoniker": "SistemaRestaurante\\Modelos\\PlatoPrincipal.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\EjercicioParcial3\\SistemaRestaurante\\Modelos\\PlatoPrincipal.cs",
+              "RelativeToolTip": "SistemaRestaurante\\Modelos\\PlatoPrincipal.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:39:25.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entrada.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\EjercicioParcial3\\SistemaRestaurante\\Modelos\\Entrada.cs",
+              "RelativeDocumentMoniker": "SistemaRestaurante\\Modelos\\Entrada.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\EjercicioParcial3\\SistemaRestaurante\\Modelos\\Entrada.cs",
+              "RelativeToolTip": "SistemaRestaurante\\Modelos\\Entrada.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:38:21.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Plato.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\EjercicioParcial3\\SistemaRestaurante\\Modelos\\Plato.cs",
+              "RelativeDocumentMoniker": "SistemaRestaurante\\Modelos\\Plato.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\EjercicioParcial3\\SistemaRestaurante\\Modelos\\Plato.cs",
+              "RelativeToolTip": "SistemaRestaurante\\Modelos\\Plato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:35:07.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPreparable.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\EjercicioParcial3\\SistemaRestaurante\\Interfaces\\IPreparable.cs",
+              "RelativeDocumentMoniker": "SistemaRestaurante\\Interfaces\\IPreparable.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\EjercicioParcial3\\SistemaRestaurante\\Interfaces\\IPreparable.cs",
+              "RelativeToolTip": "SistemaRestaurante\\Interfaces\\IPreparable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:33:47.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NivelDificultad.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\EjercicioParcial3\\SistemaRestaurante\\Enums\\NivelDificultad.cs",
+              "RelativeDocumentMoniker": "SistemaRestaurante\\Enums\\NivelDificultad.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\EjercicioParcial3\\SistemaRestaurante\\Enums\\NivelDificultad.cs",
+              "RelativeToolTip": "SistemaRestaurante\\Enums\\NivelDificultad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:31:48.508Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,14 +134,36 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\EjercicioParcial3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwE0AAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T22:10:53.649Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstadoOrden.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\EjercicioParcial3\\SistemaRestaurante\\Enums\\EstadoOrden.cs",
+              "RelativeDocumentMoniker": "SistemaRestaurante\\Enums\\EstadoOrden.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\EjercicioParcial3\\SistemaRestaurante\\Enums\\EstadoOrden.cs",
+              "RelativeToolTip": "SistemaRestaurante\\Enums\\EstadoOrden.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:32:45.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoComida.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\EjercicioParcial3\\SistemaRestaurante\\Enums\\TipoComida.cs",
+              "RelativeDocumentMoniker": "SistemaRestaurante\\Enums\\TipoComida.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\EjercicioParcial3\\SistemaRestaurante\\Enums\\TipoComida.cs",
+              "RelativeToolTip": "SistemaRestaurante\\Enums\\TipoComida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:30:11.605Z",
+              "EditorCaption": ""
             }
           ]
         }
