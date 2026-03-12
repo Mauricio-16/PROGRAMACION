@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\PROGRAMACION\EjercicioTipoParcial2\bin\Debug\EjercicioTipoParcial2.exe.config
+C:\Users\andre\Documents\GitHub\PROGRAMACION\EjercicioTipoParcial2\bin\Debug\EjercicioTipoParcial2.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\EjercicioTipoParcial2\bin\Debug\EjercicioTipoParcial2.pdb
+C:\Users\andre\Documents\GitHub\PROGRAMACION\EjercicioTipoParcial2\obj\Debug\EjercicioTipoParcial2.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\EjercicioTipoParcial2\obj\Debug\EjercicioTipoParcial2.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\EjercicioTipoParcial2\obj\Debug\EjercicioTipoParcial2.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\EjercicioTipoParcial2\obj\Debug\EjercicioTipoParcial2.pdb
