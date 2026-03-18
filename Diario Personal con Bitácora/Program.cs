@@ -11,63 +11,40 @@ namespace Diario_Personal_con_Bitácora
     {
         static void Main(string[] args)
         {
-            string nombreArchivo = "diario.txt";
+            string archivo = "diario.txt";
 
-            Console.WriteLine("=== BIENVENIDO A TU DIARIO DIGITAL ===");
+            Console.WriteLine("--- MI DIARIO PERSONAL ---");
 
-            MostrarUltimasEntradas(nombreArchivo, 3);
-
-            try
+            if (File.Exists(archivo))
             {
-                Console.Write("\nPor favor, ingresa tu nombre: ");
-                string usuario = Console.ReadLine();
+                string[] lineas = File.ReadAllLines(archivo);
+                int total = lineas.Length;
 
-                Console.WriteLine($"\n¿Qué tienes en mente hoy, {usuario}?");
-                string mensaje = Console.ReadLine();
-
-                string fechaHora = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss");
-                string lineaLog = $"[{fechaHora}] - {usuario.ToUpper()}: {mensaje}{Environment.NewLine}";
-
-                File.AppendAllText(nombreArchivo, lineaLog);
-
-                Console.WriteLine("\n¡Entrada guardada con éxito!");
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"\nError al acceder al disco: {ex.Message}");
-            }
-
-            Console.WriteLine("\nPresiona cualquier tecla para salir...");
-            Console.ReadKey();
-        }
-
-        static void MostrarUltimasEntradas(string ruta, int cantidad)
-        {
-            if (File.Exists(ruta))
-            {
-                try
+                if (total > 0)
                 {
-                    string[] lineas = File.ReadAllLines(ruta);
-                    if (lineas.Length > 0)
+                    Console.WriteLine("\n[Últimas entradas]");
+                    int inicio = total > 3 ? total - 3 : 0;
+
+                    for (int i = inicio; i < total; i++)
                     {
-                        Console.WriteLine("\n--- Últimas entradas registradas ---");
-                        var ultimas = lineas.Skip(Math.Max(0, lineas.Length - cantidad));
-                        foreach (var linea in ultimas)
-                        {
-                            Console.WriteLine(linea);
-                        }
+                        Console.WriteLine(" > " + lineas[i]);
                     }
                 }
-                catch (IOException)
-                {
-                    Console.WriteLine("No se pudieron leer las entradas anteriores.");
-                }
             }
-            else
-            {
-                Console.WriteLine("\n(El diario está vacío. ¡Eres el primero en escribir!)");
-            }
+
+            Console.Write("\n¿Quién escribe?: ");
+            string nombre = Console.ReadLine();
+
+            Console.WriteLine($"Hola {nombre}, ¿qué quieres registrar hoy?");
+            string mensaje = Console.ReadLine();
+
+            string fecha = DateTime.Now.ToString("dd/MM/yyyy HH:mm");
+            string entrada = $"[{fecha}] - {nombre.ToUpper()}: {mensaje}";
+
+            File.AppendAllText(archivo, entrada + Environment.NewLine);
+
+            Console.WriteLine("\n>> Entrada guardada. Presiona una tecla para salir.");
+            Console.ReadKey();
         }
     }
 }
-

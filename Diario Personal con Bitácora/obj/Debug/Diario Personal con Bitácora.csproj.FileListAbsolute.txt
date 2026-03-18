@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Diario Personal con Bitácora\bin\Debug\Diario Personal con Bitácora.exe.config
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Diario Personal con Bitácora\bin\Debug\Diario Personal con Bitácora.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Diario Personal con Bitácora\bin\Debug\Diario Personal con Bitácora.pdb
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Diario Personal con Bitácora\obj\Debug\Diario Personal con Bitácora.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Diario Personal con Bitácora\obj\Debug\Diario Personal con Bitácora.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Diario Personal con Bitácora\obj\Debug\Diario Personal con Bitácora.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Diario Personal con Bitácora\obj\Debug\Diario Personal con Bitácora.pdb
