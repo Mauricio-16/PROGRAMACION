@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{20B8D7DF-50E7-4784-B690-4A04418CBC9D}|Gestor de Contactos Simple.csproj|c:\\users\\andre\\documents\\github\\programacion\\gestor de contactos simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20B8D7DF-50E7-4784-B690-4A04418CBC9D}|Gestor de Contactos Simple.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B8D7DF-50E7-4784-B690-4A04418CBC9D}|Gestor de Contactos Simple.csproj|c:\\users\\andre\\documents\\github\\programacion\\gestor de contactos simple\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B8D7DF-50E7-4784-B690-4A04418CBC9D}|Gestor de Contactos Simple.csproj|solutionrelative:contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Gestor de Contactos Simple\\Contacto.cs",
+              "RelativeDocumentMoniker": "Contacto.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Gestor de Contactos Simple\\Contacto.cs",
+              "RelativeToolTip": "Contacto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T22:35:49.188Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Gestor de Contactos Simple\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T13:23:45.38Z",
               "EditorCaption": ""

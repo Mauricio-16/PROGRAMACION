@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Gestor de Contactos Simple\bin\Debug\Gestor de Contactos Simple.exe.config
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Gestor de Contactos Simple\bin\Debug\Gestor de Contactos Simple.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Gestor de Contactos Simple\bin\Debug\Gestor de Contactos Simple.pdb
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Gestor de Contactos Simple\obj\Debug\Gestor de Contactos Simple.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Gestor de Contactos Simple\obj\Debug\Gestor de Contactos Simple.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Gestor de Contactos Simple\obj\Debug\Gestor de Contactos Simple.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Gestor de Contactos Simple\obj\Debug\Gestor de Contactos Simple.pdb
