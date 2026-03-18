@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\GlobalShip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84FD2335-A4EA-4523-94A2-DEF53F51F551}|GlobalShip.csproj|c:\\users\\andre\\documents\\github\\programacion\\globalship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FD2335-A4EA-4523-94A2-DEF53F51F551}|GlobalShip.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FD2335-A4EA-4523-94A2-DEF53F51F551}|GlobalShip.csproj|C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\GlobalShip\\modelo\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FD2335-A4EA-4523-94A2-DEF53F51F551}|GlobalShip.csproj|solutionrelative:modelo\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FD2335-A4EA-4523-94A2-DEF53F51F551}|GlobalShip.csproj|C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\GlobalShip\\enum\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FD2335-A4EA-4523-94A2-DEF53F51F551}|GlobalShip.csproj|solutionrelative:enum\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tipo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\GlobalShip\\Enum\\Tipo.cs",
+              "RelativeDocumentMoniker": "Enum\\Tipo.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\GlobalShip\\Enum\\Tipo.cs",
+              "RelativeToolTip": "Enum\\Tipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:33:45.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paquete.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\GlobalShip\\Modelo\\Paquete.cs",
+              "RelativeDocumentMoniker": "Modelo\\Paquete.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\GlobalShip\\Modelo\\Paquete.cs",
+              "RelativeToolTip": "Modelo\\Paquete.cs",
+              "ViewState": "AgIAAAAAAAAAAQAAAIATwBgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:30:00.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\GlobalShip\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\GlobalShip\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwF8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:27:54.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
