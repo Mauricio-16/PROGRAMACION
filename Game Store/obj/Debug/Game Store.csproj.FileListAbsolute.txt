@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Game Store\bin\Debug\Game Store.exe.config
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Game Store\bin\Debug\Game Store.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Game Store\bin\Debug\Game Store.pdb
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Game Store\obj\Debug\Game Store.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Game Store\obj\Debug\Game Store.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Game Store\obj\Debug\Game Store.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Game Store\obj\Debug\Game Store.pdb

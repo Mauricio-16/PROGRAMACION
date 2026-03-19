@@ -1,0 +1,3 @@
+Halo Infinite;60000;Accion;Digital;50
+Age of Empires IV;40000;Estrategia;Digital;10
+Elden Ring;70000;Aventura;Físico;5

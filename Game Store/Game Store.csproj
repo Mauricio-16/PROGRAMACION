@@ -43,8 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Genero.cs" />
+    <Compile Include="IPromocion.cs" />
+    <Compile Include="JuegoDigital.cs" />
+    <Compile Include="JuegoFisico.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VideoJuego.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
