@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{58204151-9A88-4939-91FB-C19CDD94AD14}</ProjectGuid>
+    <ProjectGuid>{075DC360-1D41-44BC-B662-E4B9B8B54490}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ParkingPro</RootNamespace>
-    <AssemblyName>ParkingPro</AssemblyName>
+    <RootNamespace>HealthTech</RootNamespace>
+    <AssemblyName>HealthTech</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Carro.cs" />
-    <Compile Include="Icobrable.cs" />
-    <Compile Include="Moto.cs" />
+    <Compile Include="CitaMedica.cs" />
+    <Compile Include="Especialidad.cs" />
+    <Compile Include="IPrioritario.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Vehiculo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

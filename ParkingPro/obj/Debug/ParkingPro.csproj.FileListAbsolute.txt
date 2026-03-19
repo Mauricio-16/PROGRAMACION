@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\PROGRAMACION\ParkingPro\bin\Debug\ParkingPro.exe.config
+C:\Users\andre\Documents\GitHub\PROGRAMACION\ParkingPro\bin\Debug\ParkingPro.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\ParkingPro\bin\Debug\ParkingPro.pdb
+C:\Users\andre\Documents\GitHub\PROGRAMACION\ParkingPro\obj\Debug\ParkingPro.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\ParkingPro\obj\Debug\ParkingPro.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\ParkingPro\obj\Debug\ParkingPro.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\ParkingPro\obj\Debug\ParkingPro.pdb

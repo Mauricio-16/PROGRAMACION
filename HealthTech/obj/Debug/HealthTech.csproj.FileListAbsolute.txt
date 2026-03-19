@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\PROGRAMACION\HealthTech\bin\Debug\HealthTech.exe.config
+C:\Users\andre\Documents\GitHub\PROGRAMACION\HealthTech\bin\Debug\HealthTech.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\HealthTech\bin\Debug\HealthTech.pdb
+C:\Users\andre\Documents\GitHub\PROGRAMACION\HealthTech\obj\Debug\HealthTech.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\HealthTech\obj\Debug\HealthTech.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\HealthTech\obj\Debug\HealthTech.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\HealthTech\obj\Debug\HealthTech.pdb

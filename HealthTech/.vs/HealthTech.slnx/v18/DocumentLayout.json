@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\HealthTech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{075DC360-1D41-44BC-B662-E4B9B8B54490}|HealthTech.csproj|c:\\users\\andre\\documents\\github\\programacion\\healthtech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DC360-1D41-44BC-B662-E4B9B8B54490}|HealthTech.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DC360-1D41-44BC-B662-E4B9B8B54490}|HealthTech.csproj|c:\\users\\andre\\documents\\github\\programacion\\healthtech\\citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DC360-1D41-44BC-B662-E4B9B8B54490}|HealthTech.csproj|solutionrelative:citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DC360-1D41-44BC-B662-E4B9B8B54490}|HealthTech.csproj|c:\\users\\andre\\documents\\github\\programacion\\healthtech\\iprioritario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DC360-1D41-44BC-B662-E4B9B8B54490}|HealthTech.csproj|solutionrelative:iprioritario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DC360-1D41-44BC-B662-E4B9B8B54490}|HealthTech.csproj|c:\\users\\andre\\documents\\github\\programacion\\healthtech\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DC360-1D41-44BC-B662-E4B9B8B54490}|HealthTech.csproj|solutionrelative:especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitaMedica.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\HealthTech\\CitaMedica.cs",
+              "RelativeDocumentMoniker": "CitaMedica.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\HealthTech\\CitaMedica.cs",
+              "RelativeToolTip": "CitaMedica.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T21:09:03.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Especialidad.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\HealthTech\\Especialidad.cs",
+              "RelativeDocumentMoniker": "Especialidad.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\HealthTech\\Especialidad.cs",
+              "RelativeToolTip": "Especialidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:53:18.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPrioritario.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\HealthTech\\IPrioritario.cs",
+              "RelativeDocumentMoniker": "IPrioritario.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\HealthTech\\IPrioritario.cs",
+              "RelativeToolTip": "IPrioritario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:51:33.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\HealthTech\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\HealthTech\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:48:03.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
