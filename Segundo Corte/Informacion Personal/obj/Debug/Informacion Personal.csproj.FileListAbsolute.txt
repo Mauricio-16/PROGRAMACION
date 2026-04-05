@@ -1,0 +1,10 @@
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Informacion Personal\bin\Debug\Informacion Personal.exe.config
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Informacion Personal\bin\Debug\Informacion Personal.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Informacion Personal\bin\Debug\Informacion Personal.pdb
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Informacion Personal\obj\Debug\Informacion Personal.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Informacion Personal\obj\Debug\Informacion_Personal.Form1.resources
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Informacion Personal\obj\Debug\Informacion_Personal.Properties.Resources.resources
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Informacion Personal\obj\Debug\Informacion Personal.csproj.GenerateResource.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Informacion Personal\obj\Debug\Informacion Personal.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Informacion Personal\obj\Debug\Informacion Personal.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Informacion Personal\obj\Debug\Informacion Personal.pdb

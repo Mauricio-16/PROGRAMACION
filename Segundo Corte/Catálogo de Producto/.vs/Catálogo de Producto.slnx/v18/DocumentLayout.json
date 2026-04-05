@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Segundo Corte\\Cat\u00E1logo de Producto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6EC904-6FA3-4861-8DE6-1FB7DD746872}|Cat\u00E1logo de Producto.csproj|c:\\users\\andre\\documents\\github\\programacion\\segundo corte\\cat\u00E1logo de producto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C6EC904-6FA3-4861-8DE6-1FB7DD746872}|Cat\u00E1logo de Producto.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Segundo Corte\\Cat\u00E1logo de Producto\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PROGRAMACION\\Segundo Corte\\Cat\u00E1logo de Producto\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T17:48:55.529Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

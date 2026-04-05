@@ -1,0 +1,10 @@
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Catálogo de Producto\bin\Debug\Catálogo de Producto.exe.config
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Catálogo de Producto\bin\Debug\Catálogo de Producto.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Catálogo de Producto\bin\Debug\Catálogo de Producto.pdb
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Catálogo de Producto\obj\Debug\Catálogo de Producto.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Catálogo de Producto\obj\Debug\Catálogo_de_Producto.Form1.resources
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Catálogo de Producto\obj\Debug\Catálogo_de_Producto.Properties.Resources.resources
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Catálogo de Producto\obj\Debug\Catálogo de Producto.csproj.GenerateResource.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Catálogo de Producto\obj\Debug\Catálogo de Producto.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Catálogo de Producto\obj\Debug\Catálogo de Producto.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Catálogo de Producto\obj\Debug\Catálogo de Producto.pdb

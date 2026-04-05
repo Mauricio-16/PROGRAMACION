@@ -1,0 +1,10 @@
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Panel de Configuración\bin\Debug\Panel de Configuración.exe.config
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Panel de Configuración\bin\Debug\Panel de Configuración.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Panel de Configuración\bin\Debug\Panel de Configuración.pdb
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Panel de Configuración\obj\Debug\Panel de Configuración.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Panel de Configuración\obj\Debug\Panel_de_Configuración.Form1.resources
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Panel de Configuración\obj\Debug\Panel_de_Configuración.Properties.Resources.resources
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Panel de Configuración\obj\Debug\Panel de Configuración.csproj.GenerateResource.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Panel de Configuración\obj\Debug\Panel de Configuración.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Panel de Configuración\obj\Debug\Panel de Configuración.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Panel de Configuración\obj\Debug\Panel de Configuración.pdb

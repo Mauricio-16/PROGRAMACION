@@ -1,0 +1,10 @@
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Reproductor de Música\bin\Debug\Reproductor de Música.exe.config
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Reproductor de Música\bin\Debug\Reproductor de Música.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Reproductor de Música\bin\Debug\Reproductor de Música.pdb
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Reproductor de Música\obj\Debug\Reproductor de Música.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Reproductor de Música\obj\Debug\Reproductor_de_Música.Form1.resources
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Reproductor de Música\obj\Debug\Reproductor_de_Música.Properties.Resources.resources
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Reproductor de Música\obj\Debug\Reproductor de Música.csproj.GenerateResource.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Reproductor de Música\obj\Debug\Reproductor de Música.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Reproductor de Música\obj\Debug\Reproductor de Música.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Reproductor de Música\obj\Debug\Reproductor de Música.pdb
