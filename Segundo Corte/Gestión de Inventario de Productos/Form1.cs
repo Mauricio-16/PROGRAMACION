@@ -3,28 +3,18 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Clasificacion_de_Estudiantes
+namespace Gestión_de_Inventario_de_Productos
 {
     public partial class Form1 : Form
     {
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            string ruta = "NotasAlumnos.csv";
-
-            string txtNombreAlumnos = Console.ReadLine();
-            File.AppendAllText(ruta, txtNombreAlumnos.ToCSV() + Environment.NewLine);
-
         }
     }
 }
