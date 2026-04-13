@@ -1,0 +1,10 @@
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Registro de Empleados\bin\Debug\Registro de Empleados.exe.config
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Registro de Empleados\bin\Debug\Registro de Empleados.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Registro de Empleados\bin\Debug\Registro de Empleados.pdb
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Registro de Empleados\obj\Debug\Registro de Empleados.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Registro de Empleados\obj\Debug\Registro_de_Empleados.Form1.resources
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Registro de Empleados\obj\Debug\Registro_de_Empleados.Properties.Resources.resources
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Registro de Empleados\obj\Debug\Registro de Empleados.csproj.GenerateResource.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Registro de Empleados\obj\Debug\Registro de Empleados.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Registro de Empleados\obj\Debug\Registro de Empleados.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\Registro de Empleados\obj\Debug\Registro de Empleados.pdb
