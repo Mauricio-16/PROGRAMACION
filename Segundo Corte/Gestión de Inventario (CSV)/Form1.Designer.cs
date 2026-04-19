@@ -1,0 +1,227 @@
+﻿namespace Gestión_de_Inventario__CSV_
+{
+    partial class Form1
+    {
+        private System.ComponentModel.IContainer components = null;
+
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.GroupBox groupBox2;
+
+        private System.Windows.Forms.TextBox txtNombre;
+        private System.Windows.Forms.TextBox txtCodigo;
+        private System.Windows.Forms.NumericUpDown numCosto;
+        private System.Windows.Forms.NumericUpDown numCantidad;
+
+        private System.Windows.Forms.Button btnCrear;
+        private System.Windows.Forms.Button btnActualizar;
+
+        private System.Windows.Forms.ListBox listBox1;
+
+        private System.Windows.Forms.Label lblNombre;
+        private System.Windows.Forms.Label lblCodigo;
+        private System.Windows.Forms.Label lblCosto;
+        private System.Windows.Forms.Label lblCantidad;
+
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+                components.Dispose();
+            base.Dispose(disposing);
+        }
+
+        private void InitializeComponent()
+        {
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.lblNombre = new System.Windows.Forms.Label();
+            this.txtNombre = new System.Windows.Forms.TextBox();
+            this.lblCodigo = new System.Windows.Forms.Label();
+            this.txtCodigo = new System.Windows.Forms.TextBox();
+            this.lblCosto = new System.Windows.Forms.Label();
+            this.numCosto = new System.Windows.Forms.NumericUpDown();
+            this.lblCantidad = new System.Windows.Forms.Label();
+            this.numCantidad = new System.Windows.Forms.NumericUpDown();
+            this.btnCrear = new System.Windows.Forms.Button();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.btnActualizar = new System.Windows.Forms.Button();
+            this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numCosto)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numCantidad)).BeginInit();
+            this.groupBox2.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.lblNombre);
+            this.groupBox1.Controls.Add(this.txtNombre);
+            this.groupBox1.Controls.Add(this.lblCodigo);
+            this.groupBox1.Controls.Add(this.txtCodigo);
+            this.groupBox1.Controls.Add(this.lblCosto);
+            this.groupBox1.Controls.Add(this.numCosto);
+            this.groupBox1.Controls.Add(this.lblCantidad);
+            this.groupBox1.Controls.Add(this.numCantidad);
+            this.groupBox1.Controls.Add(this.btnCrear);
+            this.groupBox1.Location = new System.Drawing.Point(20, 20);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(500, 150);
+            this.groupBox1.TabIndex = 0;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Crear producto";
+            // 
+            // lblNombre
+            // 
+            this.lblNombre.Location = new System.Drawing.Point(20, 30);
+            this.lblNombre.Name = "lblNombre";
+            this.lblNombre.Size = new System.Drawing.Size(74, 23);
+            this.lblNombre.TabIndex = 0;
+            this.lblNombre.Text = "Nombre";
+            // 
+            // txtNombre
+            // 
+            this.txtNombre.BackColor = System.Drawing.SystemColors.Window;
+            this.txtNombre.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtNombre.Location = new System.Drawing.Point(100, 30);
+            this.txtNombre.Name = "txtNombre";
+            this.txtNombre.Size = new System.Drawing.Size(350, 13);
+            this.txtNombre.TabIndex = 1;
+            // 
+            // lblCodigo
+            // 
+            this.lblCodigo.Location = new System.Drawing.Point(17, 70);
+            this.lblCodigo.Name = "lblCodigo";
+            this.lblCodigo.Size = new System.Drawing.Size(77, 23);
+            this.lblCodigo.TabIndex = 2;
+            this.lblCodigo.Text = "Codigo";
+            // 
+            // txtCodigo
+            // 
+            this.txtCodigo.Location = new System.Drawing.Point(100, 70);
+            this.txtCodigo.Name = "txtCodigo";
+            this.txtCodigo.Size = new System.Drawing.Size(100, 20);
+            this.txtCodigo.TabIndex = 3;
+            // 
+            // lblCosto
+            // 
+            this.lblCosto.Location = new System.Drawing.Point(220, 50);
+            this.lblCosto.Name = "lblCosto";
+            this.lblCosto.Size = new System.Drawing.Size(80, 17);
+            this.lblCosto.TabIndex = 4;
+            this.lblCosto.Text = "Costo";
+            // 
+            // numCosto
+            // 
+            this.numCosto.DecimalPlaces = 2;
+            this.numCosto.Increment = new decimal(new int[] {
+            1,
+            0,
+            0,
+            131072});
+            this.numCosto.Location = new System.Drawing.Point(220, 70);
+            this.numCosto.Maximum = new decimal(new int[] {
+            1000000,
+            0,
+            0,
+            0});
+            this.numCosto.Minimum = new decimal(new int[] {
+            0,
+            0,
+            0,
+            0});
+            this.numCosto.Name = "numCosto";
+            this.numCosto.Size = new System.Drawing.Size(80, 20);
+            this.numCosto.TabIndex = 5;
+            this.numCosto.Value = new decimal(new int[] {
+            0,
+            0,
+            0,
+            0});
+            // 
+            // lblCantidad
+            // 
+            this.lblCantidad.Location = new System.Drawing.Point(320, 50);
+            this.lblCantidad.Name = "lblCantidad";
+            this.lblCantidad.Size = new System.Drawing.Size(80, 17);
+            this.lblCantidad.TabIndex = 6;
+            this.lblCantidad.Text = "Cantidad";
+            // 
+            // numCantidad
+            // 
+            this.numCantidad.DecimalPlaces = 0;
+            this.numCantidad.Increment = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            this.numCantidad.Location = new System.Drawing.Point(320, 70);
+            this.numCantidad.Maximum = new decimal(new int[] {
+            1000000,
+            0,
+            0,
+            0});
+            this.numCantidad.Minimum = new decimal(new int[] {
+            0,
+            0,
+            0,
+            0});
+            this.numCantidad.Name = "numCantidad";
+            this.numCantidad.Size = new System.Drawing.Size(80, 20);
+            this.numCantidad.TabIndex = 7;
+            this.numCantidad.Value = new decimal(new int[] {
+            0,
+            0,
+            0,
+            0});
+            // 
+            // btnCrear
+            // 
+            this.btnCrear.Location = new System.Drawing.Point(100, 100);
+            this.btnCrear.Name = "btnCrear";
+            this.btnCrear.Size = new System.Drawing.Size(100, 30);
+            this.btnCrear.TabIndex = 8;
+            this.btnCrear.Text = "Crear";
+            this.btnCrear.Click += new System.EventHandler(this.btnCrear_Click);
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Controls.Add(this.listBox1);
+            this.groupBox2.Controls.Add(this.btnActualizar);
+            this.groupBox2.Location = new System.Drawing.Point(20, 180);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(500, 220);
+            this.groupBox2.TabIndex = 1;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "Listado Productos";
+            // 
+            // listBox1
+            // 
+            this.listBox1.Location = new System.Drawing.Point(20, 30);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(450, 121);
+            this.listBox1.TabIndex = 0;
+            // 
+            // btnActualizar
+            // 
+            this.btnActualizar.Location = new System.Drawing.Point(20, 170);
+            this.btnActualizar.Name = "btnActualizar";
+            this.btnActualizar.Size = new System.Drawing.Size(100, 30);
+            this.btnActualizar.TabIndex = 1;
+            this.btnActualizar.Text = "Actualizar";
+            this.btnActualizar.Click += new System.EventHandler(this.btnActualizar_Click);
+            // 
+            // Form1
+            // 
+            this.ClientSize = new System.Drawing.Size(550, 430);
+            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.groupBox2);
+            this.Name = "Form1";
+            this.Text = "Inventario CSV";
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numCosto)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numCantidad)).EndInit();
+            this.groupBox2.ResumeLayout(false);
+            this.ResumeLayout(false);
+
+        }
+    }
+}
