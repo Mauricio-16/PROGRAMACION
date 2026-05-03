@@ -1,0 +1,14 @@
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\PhoneStore\bin\Debug\PhoneStore.exe.config
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\PhoneStore\bin\Debug\PhoneStore.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\PhoneStore\bin\Debug\PhoneStore.pdb
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\PhoneStore\obj\Debug\PhoneStore.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\PhoneStore\obj\Debug\PhoneStore.Properties.Resources.resources
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\PhoneStore\obj\Debug\PhoneStore.csproj.GenerateResource.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\PhoneStore\obj\Debug\PhoneStore.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\PhoneStore\obj\Debug\PhoneStore.exe
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\PhoneStore\obj\Debug\PhoneStore.pdb
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\PhoneStore\obj\Debug\PhoneStore.FormInicio.resources
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\PhoneStore\obj\Debug\PhoneStore.FormProductos.resources
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\PhoneStore\obj\Debug\PhoneStore.Vista.FormEntradas.resources
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\PhoneStore\obj\Debug\PhoneStore.Vista.FormInformes.resources
+C:\Users\andre\Documents\GitHub\PROGRAMACION\Segundo Corte\PhoneStore\obj\Debug\PhoneStore.Vista.FormSalidas.resources
