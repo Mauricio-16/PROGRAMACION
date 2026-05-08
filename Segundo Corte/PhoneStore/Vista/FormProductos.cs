@@ -51,7 +51,7 @@ namespace PhoneStore
 
             };
             controlador.GuardarProducto(producto);
-            lblEstado.Text = "Producto guardado correctamente";
+            lblEstado.Text = "Producto guardado";
         }
         private void LimpiarCampos()
         {

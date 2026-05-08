@@ -143,7 +143,35 @@ namespace PhoneStore.Vista
                 }
             }
         }
-        private void btnFiltrar_Click(object sender, EventArgs e)
+        private void CargarStock()
+        {
+            dgvStock.Rows.Clear();
+
+            if (File.Exists("productos.csv"))
+            {
+                foreach (var l in File.ReadAllLines("productos.csv"))
+                {
+                    if (string.IsNullOrWhiteSpace(l)) continue;
+
+                    var d = l.Split(',');
+                    if (d.Length < 5) continue;
+
+                    int stock = 0;
+                    int.TryParse(d[4], out stock);
+
+                    int row = dgvStock.Rows.Add(d[0], d[1], stock);
+
+                    if (stock <= 3)
+                        dgvStock.Rows[row].DefaultCellStyle.BackColor = Color.LightCoral;
+                    else if (stock <= 5)
+                        dgvStock.Rows[row].DefaultCellStyle.BackColor = Color.Khaki;
+                    else
+                        dgvStock.Rows[row].DefaultCellStyle.BackColor = Color.LightGreen;
+                }
+            }
+        }
+
+        private void btnFiltrar_Click_1(object sender, EventArgs e)
         {
             string producto = cbProducto.Text;
             string tipo = cbTipo.Text;
@@ -202,37 +230,9 @@ namespace PhoneStore.Vista
 
             CargarResumen();
         }
-        private void btnVerTodo_Click(object sender, EventArgs e)
+        private void btnVerTodo_Click_1(object sender, EventArgs e)
         {
             CargarMovimientos();
-        }
-
-        private void CargarStock()
-        {
-            dgvStock.Rows.Clear();
-
-            if (File.Exists("productos.csv"))
-            {
-                foreach (var l in File.ReadAllLines("productos.csv"))
-                {
-                    if (string.IsNullOrWhiteSpace(l)) continue;
-
-                    var d = l.Split(',');
-                    if (d.Length < 5) continue;
-
-                    int stock = 0;
-                    int.TryParse(d[4], out stock);
-
-                    int row = dgvStock.Rows.Add(d[0], d[1], stock);
-
-                    if (stock <= 3)
-                        dgvStock.Rows[row].DefaultCellStyle.BackColor = Color.LightCoral;
-                    else if (stock <= 5)
-                        dgvStock.Rows[row].DefaultCellStyle.BackColor = Color.Khaki;
-                    else
-                        dgvStock.Rows[row].DefaultCellStyle.BackColor = Color.LightGreen;
-                }
-            }
         }
     }
 }

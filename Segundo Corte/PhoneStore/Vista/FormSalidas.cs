@@ -99,7 +99,6 @@ namespace PhoneStore.Vista
 
             controladorProducto.ActualizarProductos(productos);
 
-            lblEstadoSalida.ForeColor = Color.GreenYellow;
             lblEstadoSalida.Text = "Salida registrada";
 
             CargarSalidas();
@@ -112,6 +111,11 @@ namespace PhoneStore.Vista
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
         {
 
         }

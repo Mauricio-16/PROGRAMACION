@@ -18,11 +18,6 @@ namespace PhoneStore
             InitializeComponent();
         }
 
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
         private void btnProductos_Click(object sender, EventArgs e)
         {
             new FormProductos().Show();
@@ -33,12 +28,12 @@ namespace PhoneStore
             new FormEntradas().Show();
         }
 
-        private void btnSalidas_Click(object sender, EventArgs e)
+        private void btnSalidas_Click_1(object sender, EventArgs e)
         {
             new FormSalidas().Show();
         }
 
-        private void btnInformes_Click(object sender, EventArgs e)
+        private void btnInformes_Click_1(object sender, EventArgs e)
         {
             new FormInformes().Show();
         }

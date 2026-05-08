@@ -69,22 +69,25 @@
             // 
             // label7
             // 
+            this.label7.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Tai Le", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Font = new System.Drawing.Font("Papyrus", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.White;
-            this.label7.Location = new System.Drawing.Point(152, 9);
+            this.label7.Location = new System.Drawing.Point(262, 9);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(312, 37);
+            this.label7.Size = new System.Drawing.Size(313, 46);
             this.label7.TabIndex = 0;
             this.label7.Text = "Gestión de Productos";
             // 
             // label6
             // 
+            this.label6.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Papyrus", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(156, 46);
+            this.label6.Location = new System.Drawing.Point(285, 55);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(266, 23);
+            this.label6.Size = new System.Drawing.Size(258, 30);
             this.label6.TabIndex = 1;
             this.label6.Text = "Registra y revisa tus productos";
             // 
@@ -137,6 +140,7 @@
             this.groupBox1.Controls.Add(this.btnGuardarProductos);
             this.groupBox1.Controls.Add(this.tableLayoutPanel1);
             this.groupBox1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupBox1.Font = new System.Drawing.Font("Papyrus", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(0, 0);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(294, 375);
@@ -147,20 +151,21 @@
             // lblEstado
             // 
             this.lblEstado.AutoSize = true;
-            this.lblEstado.ForeColor = System.Drawing.Color.GreenYellow;
-            this.lblEstado.Location = new System.Drawing.Point(39, 343);
+            this.lblEstado.ForeColor = System.Drawing.Color.Black;
+            this.lblEstado.Location = new System.Drawing.Point(9, 336);
             this.lblEstado.Name = "lblEstado";
-            this.lblEstado.Size = new System.Drawing.Size(0, 23);
+            this.lblEstado.Size = new System.Drawing.Size(0, 30);
             this.lblEstado.TabIndex = 11;
             // 
             // btnLimpiarProductos
             // 
             this.btnLimpiarProductos.AutoSize = true;
             this.btnLimpiarProductos.BackColor = System.Drawing.Color.DarkRed;
+            this.btnLimpiarProductos.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnLimpiarProductos.ForeColor = System.Drawing.Color.White;
-            this.btnLimpiarProductos.Location = new System.Drawing.Point(178, 288);
+            this.btnLimpiarProductos.Location = new System.Drawing.Point(168, 279);
             this.btnLimpiarProductos.Name = "btnLimpiarProductos";
-            this.btnLimpiarProductos.Size = new System.Drawing.Size(110, 33);
+            this.btnLimpiarProductos.Size = new System.Drawing.Size(126, 40);
             this.btnLimpiarProductos.TabIndex = 10;
             this.btnLimpiarProductos.Text = "🧹 Limpiar";
             this.btnLimpiarProductos.UseVisualStyleBackColor = false;
@@ -170,10 +175,11 @@
             // 
             this.btnGuardarProductos.AutoSize = true;
             this.btnGuardarProductos.BackColor = System.Drawing.Color.DodgerBlue;
+            this.btnGuardarProductos.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnGuardarProductos.ForeColor = System.Drawing.Color.White;
-            this.btnGuardarProductos.Location = new System.Drawing.Point(33, 288);
+            this.btnGuardarProductos.Location = new System.Drawing.Point(3, 277);
             this.btnGuardarProductos.Name = "btnGuardarProductos";
-            this.btnGuardarProductos.Size = new System.Drawing.Size(115, 33);
+            this.btnGuardarProductos.Size = new System.Drawing.Size(136, 42);
             this.btnGuardarProductos.TabIndex = 9;
             this.btnGuardarProductos.Text = "💾 Guardar";
             this.btnGuardarProductos.UseVisualStyleBackColor = false;
@@ -195,7 +201,7 @@
             this.tableLayoutPanel1.Controls.Add(this.label2, 0, 1);
             this.tableLayoutPanel1.Controls.Add(this.txtCodigoProductos, 1, 0);
             this.tableLayoutPanel1.Controls.Add(this.label1, 0, 0);
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(33, 31);
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(3, 31);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 5;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 45F));
@@ -203,58 +209,67 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 48F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 46F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 41F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(261, 231);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(291, 231);
             this.tableLayoutPanel1.TabIndex = 6;
             // 
             // nudStockinicialProductos
             // 
+            this.nudStockinicialProductos.BackColor = System.Drawing.Color.White;
+            this.nudStockinicialProductos.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.nudStockinicialProductos.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.nudStockinicialProductos.Location = new System.Drawing.Point(108, 192);
+            this.nudStockinicialProductos.ForeColor = System.Drawing.Color.Black;
+            this.nudStockinicialProductos.Location = new System.Drawing.Point(120, 192);
             this.nudStockinicialProductos.Maximum = new decimal(new int[] {
             1000,
             0,
             0,
             0});
             this.nudStockinicialProductos.Name = "nudStockinicialProductos";
-            this.nudStockinicialProductos.Size = new System.Drawing.Size(150, 32);
+            this.nudStockinicialProductos.Size = new System.Drawing.Size(168, 33);
             this.nudStockinicialProductos.TabIndex = 16;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Dock = System.Windows.Forms.DockStyle.Right;
-            this.label5.Location = new System.Drawing.Point(13, 189);
+            this.label5.Location = new System.Drawing.Point(6, 189);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(89, 42);
+            this.label5.Size = new System.Drawing.Size(108, 42);
             this.label5.TabIndex = 15;
             this.label5.Text = "Stock Ini.:";
             // 
             // nudPrecioProductos
             // 
+            this.nudPrecioProductos.BackColor = System.Drawing.Color.White;
+            this.nudPrecioProductos.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.nudPrecioProductos.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.nudPrecioProductos.Location = new System.Drawing.Point(108, 146);
+            this.nudPrecioProductos.ForeColor = System.Drawing.Color.Black;
+            this.nudPrecioProductos.Location = new System.Drawing.Point(120, 146);
             this.nudPrecioProductos.Maximum = new decimal(new int[] {
             10000000,
             0,
             0,
             0});
             this.nudPrecioProductos.Name = "nudPrecioProductos";
-            this.nudPrecioProductos.Size = new System.Drawing.Size(150, 32);
+            this.nudPrecioProductos.Size = new System.Drawing.Size(168, 33);
             this.nudPrecioProductos.TabIndex = 14;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Dock = System.Windows.Forms.DockStyle.Right;
-            this.label4.Location = new System.Drawing.Point(13, 143);
+            this.label4.Location = new System.Drawing.Point(10, 143);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(89, 46);
+            this.label4.Size = new System.Drawing.Size(104, 46);
             this.label4.TabIndex = 13;
             this.label4.Text = "Precio($):";
             // 
             // cbCategoriaProductos
             // 
+            this.cbCategoriaProductos.BackColor = System.Drawing.Color.White;
             this.cbCategoriaProductos.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.cbCategoriaProductos.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.cbCategoriaProductos.ForeColor = System.Drawing.Color.Black;
             this.cbCategoriaProductos.FormattingEnabled = true;
             this.cbCategoriaProductos.Items.AddRange(new object[] {
             "Pantallas",
@@ -264,63 +279,71 @@
             "Cargadores",
             "",
             "Forros"});
-            this.cbCategoriaProductos.Location = new System.Drawing.Point(108, 98);
+            this.cbCategoriaProductos.Location = new System.Drawing.Point(120, 98);
             this.cbCategoriaProductos.Name = "cbCategoriaProductos";
-            this.cbCategoriaProductos.Size = new System.Drawing.Size(150, 31);
+            this.cbCategoriaProductos.Size = new System.Drawing.Size(168, 38);
             this.cbCategoriaProductos.TabIndex = 12;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Dock = System.Windows.Forms.DockStyle.Right;
-            this.label3.Location = new System.Drawing.Point(6, 95);
+            this.label3.Location = new System.Drawing.Point(3, 95);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(96, 48);
+            this.label3.Size = new System.Drawing.Size(111, 48);
             this.label3.TabIndex = 11;
             this.label3.Text = "Categoría:";
             // 
             // txtNombreProductos
             // 
+            this.txtNombreProductos.BackColor = System.Drawing.Color.White;
+            this.txtNombreProductos.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtNombreProductos.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.txtNombreProductos.Location = new System.Drawing.Point(108, 46);
+            this.txtNombreProductos.ForeColor = System.Drawing.Color.Black;
+            this.txtNombreProductos.Location = new System.Drawing.Point(120, 46);
             this.txtNombreProductos.Name = "txtNombreProductos";
-            this.txtNombreProductos.Size = new System.Drawing.Size(150, 32);
+            this.txtNombreProductos.Size = new System.Drawing.Size(168, 30);
             this.txtNombreProductos.TabIndex = 10;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Dock = System.Windows.Forms.DockStyle.Right;
-            this.label2.Location = new System.Drawing.Point(19, 43);
+            this.label2.Location = new System.Drawing.Point(22, 43);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(83, 52);
+            this.label2.Size = new System.Drawing.Size(92, 52);
             this.label2.TabIndex = 9;
             this.label2.Text = "Nombre:";
             // 
             // txtCodigoProductos
             // 
+            this.txtCodigoProductos.BackColor = System.Drawing.Color.White;
+            this.txtCodigoProductos.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtCodigoProductos.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.txtCodigoProductos.Location = new System.Drawing.Point(108, 3);
+            this.txtCodigoProductos.ForeColor = System.Drawing.Color.Black;
+            this.txtCodigoProductos.Location = new System.Drawing.Point(120, 3);
             this.txtCodigoProductos.Name = "txtCodigoProductos";
-            this.txtCodigoProductos.Size = new System.Drawing.Size(150, 32);
+            this.txtCodigoProductos.Size = new System.Drawing.Size(168, 30);
             this.txtCodigoProductos.TabIndex = 8;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Dock = System.Windows.Forms.DockStyle.Right;
-            this.label1.Location = new System.Drawing.Point(27, 0);
+            this.label1.Location = new System.Drawing.Point(24, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(75, 43);
+            this.label1.Size = new System.Drawing.Size(90, 43);
             this.label1.TabIndex = 2;
             this.label1.Text = "Código:";
             // 
             // groupBox2
             // 
+            this.groupBox2.AutoSize = true;
             this.groupBox2.Controls.Add(this.btnEliminarProductos);
             this.groupBox2.Controls.Add(this.btnActualizarProductos);
             this.groupBox2.Controls.Add(this.dgvProductos);
             this.groupBox2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupBox2.Font = new System.Drawing.Font("Papyrus", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox2.Location = new System.Drawing.Point(0, 0);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(582, 375);
@@ -332,10 +355,11 @@
             // 
             this.btnEliminarProductos.AutoSize = true;
             this.btnEliminarProductos.BackColor = System.Drawing.Color.DarkRed;
+            this.btnEliminarProductos.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnEliminarProductos.ForeColor = System.Drawing.Color.White;
-            this.btnEliminarProductos.Location = new System.Drawing.Point(460, 229);
+            this.btnEliminarProductos.Location = new System.Drawing.Point(438, 259);
             this.btnEliminarProductos.Name = "btnEliminarProductos";
-            this.btnEliminarProductos.Size = new System.Drawing.Size(116, 33);
+            this.btnEliminarProductos.Size = new System.Drawing.Size(132, 40);
             this.btnEliminarProductos.TabIndex = 11;
             this.btnEliminarProductos.Text = "🗑️ Eliminar";
             this.btnEliminarProductos.UseVisualStyleBackColor = false;
@@ -345,10 +369,11 @@
             // 
             this.btnActualizarProductos.AutoSize = true;
             this.btnActualizarProductos.BackColor = System.Drawing.Color.DodgerBlue;
+            this.btnActualizarProductos.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnActualizarProductos.ForeColor = System.Drawing.Color.White;
-            this.btnActualizarProductos.Location = new System.Drawing.Point(310, 229);
+            this.btnActualizarProductos.Location = new System.Drawing.Point(272, 259);
             this.btnActualizarProductos.Name = "btnActualizarProductos";
-            this.btnActualizarProductos.Size = new System.Drawing.Size(131, 33);
+            this.btnActualizarProductos.Size = new System.Drawing.Size(147, 40);
             this.btnActualizarProductos.TabIndex = 8;
             this.btnActualizarProductos.Text = "🔁 Actualizar";
             this.btnActualizarProductos.UseVisualStyleBackColor = false;
@@ -365,14 +390,14 @@
             this.dgvProductos.Name = "dgvProductos";
             this.dgvProductos.ReadOnly = true;
             this.dgvProductos.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvProductos.Size = new System.Drawing.Size(576, 181);
+            this.dgvProductos.Size = new System.Drawing.Size(576, 225);
             this.dgvProductos.TabIndex = 0;
             // 
             // FormProductos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 23F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.White;
+            this.BackColor = System.Drawing.Color.LightGray;
             this.ClientSize = new System.Drawing.Size(884, 466);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.splitContainer1);
@@ -387,6 +412,7 @@
             this.panel2.PerformLayout();
             this.splitContainer1.Panel1.ResumeLayout(false);
             this.splitContainer1.Panel2.ResumeLayout(false);
+            this.splitContainer1.Panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
             this.splitContainer1.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);

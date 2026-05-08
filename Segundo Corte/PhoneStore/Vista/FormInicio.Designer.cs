@@ -34,10 +34,10 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.btnSalidas = new System.Windows.Forms.Button();
             this.btnInformes = new System.Windows.Forms.Button();
-            this.btnProductos = new System.Windows.Forms.Button();
+            this.btnSalidas = new System.Windows.Forms.Button();
             this.btnEntradas = new System.Windows.Forms.Button();
+            this.btnProductos = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.tableLayoutPanel1.SuspendLayout();
@@ -67,60 +67,47 @@
             // 
             // label2
             // 
+            this.label2.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Papyrus", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(156, 46);
+            this.label2.Location = new System.Drawing.Point(301, 55);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(221, 16);
+            this.label2.Size = new System.Drawing.Size(220, 21);
             this.label2.TabIndex = 1;
             this.label2.Text = "Inventario de repuestos y accesorios";
             // 
             // label1
             // 
+            this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Tai Le", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Papyrus", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(152, 9);
+            this.label1.Location = new System.Drawing.Point(266, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(214, 37);
+            this.label1.Size = new System.Drawing.Size(314, 46);
             this.label1.TabIndex = 0;
             this.label1.Text = "PHONE STORE";
             // 
             // tableLayoutPanel1
             // 
-            this.tableLayoutPanel1.CellBorderStyle = System.Windows.Forms.TableLayoutPanelCellBorderStyle.OutsetDouble;
-            this.tableLayoutPanel1.ColumnCount = 2;
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel1.Controls.Add(this.btnSalidas, 0, 1);
-            this.tableLayoutPanel1.Controls.Add(this.btnInformes, 1, 1);
-            this.tableLayoutPanel1.Controls.Add(this.btnProductos, 0, 0);
+            this.tableLayoutPanel1.AutoSize = true;
+            this.tableLayoutPanel1.ColumnCount = 4;
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel1.Controls.Add(this.btnInformes, 3, 0);
+            this.tableLayoutPanel1.Controls.Add(this.btnSalidas, 2, 0);
             this.tableLayoutPanel1.Controls.Add(this.btnEntradas, 1, 0);
+            this.tableLayoutPanel1.Controls.Add(this.btnProductos, 0, 0);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 90);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
-            this.tableLayoutPanel1.RowCount = 2;
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel1.RowCount = 1;
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle());
             this.tableLayoutPanel1.Size = new System.Drawing.Size(884, 376);
             this.tableLayoutPanel1.TabIndex = 1;
-            this.tableLayoutPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.tableLayoutPanel1_Paint);
-            // 
-            // btnSalidas
-            // 
-            this.btnSalidas.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnSalidas.BackgroundImage")));
-            this.btnSalidas.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnSalidas.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnSalidas.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.btnSalidas.FlatAppearance.BorderColor = System.Drawing.Color.LightGray;
-            this.btnSalidas.FlatAppearance.BorderSize = 0;
-            this.btnSalidas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSalidas.Location = new System.Drawing.Point(6, 192);
-            this.btnSalidas.Name = "btnSalidas";
-            this.btnSalidas.Size = new System.Drawing.Size(431, 178);
-            this.btnSalidas.TabIndex = 2;
-            this.btnSalidas.UseVisualStyleBackColor = true;
-            this.btnSalidas.Click += new System.EventHandler(this.btnSalidas_Click);
             // 
             // btnInformes
             // 
@@ -131,30 +118,28 @@
             this.btnInformes.FlatAppearance.BorderColor = System.Drawing.Color.Silver;
             this.btnInformes.FlatAppearance.BorderSize = 0;
             this.btnInformes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnInformes.Location = new System.Drawing.Point(446, 192);
+            this.btnInformes.Location = new System.Drawing.Point(666, 3);
             this.btnInformes.Name = "btnInformes";
-            this.btnInformes.Size = new System.Drawing.Size(432, 178);
-            this.btnInformes.TabIndex = 3;
+            this.btnInformes.Size = new System.Drawing.Size(215, 370);
+            this.btnInformes.TabIndex = 5;
             this.btnInformes.UseVisualStyleBackColor = true;
-            this.btnInformes.Click += new System.EventHandler(this.btnInformes_Click);
+            this.btnInformes.Click += new System.EventHandler(this.btnInformes_Click_1);
             // 
-            // btnProductos
+            // btnSalidas
             // 
-            this.btnProductos.BackColor = System.Drawing.Color.White;
-            this.btnProductos.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnProductos.BackgroundImage")));
-            this.btnProductos.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnProductos.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnProductos.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.btnProductos.FlatAppearance.BorderColor = System.Drawing.Color.LightGray;
-            this.btnProductos.FlatAppearance.BorderSize = 0;
-            this.btnProductos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnProductos.Location = new System.Drawing.Point(6, 6);
-            this.btnProductos.Name = "btnProductos";
-            this.btnProductos.Size = new System.Drawing.Size(431, 177);
-            this.btnProductos.TabIndex = 0;
-            this.btnProductos.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.btnProductos.UseVisualStyleBackColor = false;
-            this.btnProductos.Click += new System.EventHandler(this.btnProductos_Click);
+            this.btnSalidas.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnSalidas.BackgroundImage")));
+            this.btnSalidas.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.btnSalidas.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnSalidas.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btnSalidas.FlatAppearance.BorderColor = System.Drawing.Color.LightGray;
+            this.btnSalidas.FlatAppearance.BorderSize = 0;
+            this.btnSalidas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSalidas.Location = new System.Drawing.Point(445, 3);
+            this.btnSalidas.Name = "btnSalidas";
+            this.btnSalidas.Size = new System.Drawing.Size(215, 370);
+            this.btnSalidas.TabIndex = 4;
+            this.btnSalidas.UseVisualStyleBackColor = true;
+            this.btnSalidas.Click += new System.EventHandler(this.btnSalidas_Click_1);
             // 
             // btnEntradas
             // 
@@ -166,12 +151,31 @@
             this.btnEntradas.FlatAppearance.BorderColor = System.Drawing.Color.LightGray;
             this.btnEntradas.FlatAppearance.BorderSize = 0;
             this.btnEntradas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnEntradas.Location = new System.Drawing.Point(446, 6);
+            this.btnEntradas.Location = new System.Drawing.Point(224, 3);
             this.btnEntradas.Name = "btnEntradas";
-            this.btnEntradas.Size = new System.Drawing.Size(432, 177);
+            this.btnEntradas.Size = new System.Drawing.Size(215, 370);
             this.btnEntradas.TabIndex = 1;
             this.btnEntradas.UseVisualStyleBackColor = false;
             this.btnEntradas.Click += new System.EventHandler(this.btnEntradas_Click);
+            // 
+            // btnProductos
+            // 
+            this.btnProductos.AutoSize = true;
+            this.btnProductos.BackColor = System.Drawing.Color.White;
+            this.btnProductos.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnProductos.BackgroundImage")));
+            this.btnProductos.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.btnProductos.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnProductos.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btnProductos.FlatAppearance.BorderColor = System.Drawing.Color.LightGray;
+            this.btnProductos.FlatAppearance.BorderSize = 0;
+            this.btnProductos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnProductos.Location = new System.Drawing.Point(3, 3);
+            this.btnProductos.Name = "btnProductos";
+            this.btnProductos.Size = new System.Drawing.Size(215, 370);
+            this.btnProductos.TabIndex = 0;
+            this.btnProductos.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnProductos.UseVisualStyleBackColor = false;
+            this.btnProductos.Click += new System.EventHandler(this.btnProductos_Click);
             // 
             // FormInicio
             // 
@@ -190,7 +194,9 @@
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.tableLayoutPanel1.ResumeLayout(false);
+            this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -200,11 +206,11 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
-        private System.Windows.Forms.Button btnProductos;
-        private System.Windows.Forms.Button btnEntradas;
-        private System.Windows.Forms.Button btnSalidas;
-        private System.Windows.Forms.Button btnInformes;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button btnInformes;
+        private System.Windows.Forms.Button btnSalidas;
+        private System.Windows.Forms.Button btnEntradas;
+        private System.Windows.Forms.Button btnProductos;
     }
 }
 
